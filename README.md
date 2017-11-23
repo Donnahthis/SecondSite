@@ -7,7 +7,7 @@ of coding. This project is arranged in a way that the user will be able to inter
 programming languages. Therefore the user is able to learn knew things about programming. Stay put as you go through your
 learning experience.
 ## Setup/Installation Requirements
-* The best way to get the content you are looking for is by careful followup of the content. <strong>Do the assignmentments</strong>, share
+* The best way to get the content you are looking for is by careful followup of the content. <strong>DO THE ASSIGNMENTS</strong>, share
 your experience with the technical mentors. In case you find difficulties in understanding a concept, do research from the internet.
 Please maximise this opportunity and leave nothing undone.
 ## Known Bugs
