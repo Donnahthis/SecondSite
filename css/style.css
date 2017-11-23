@@ -1,0 +1,22 @@
+#landing-page-container-fluid {
+  background-image: url("../img/beautiful_ocean_maldives_516046.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container#heading {
+  opacity: 1;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testbox1 {
+  width: 264px;
+      padding: 10px;
+      border: 2px solid gray;
+      height: 392px;
+      margin: 0;
+      color: #fff;
+      box-shadow: 10px 10px 5px #000000;
+      text-align: center;
+      vertical-align: middle;
+}
