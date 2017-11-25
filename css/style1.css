@@ -7,15 +7,19 @@ body {
 
 	}
 
-  #landing-page-container-fluid {
-   background-image: url("../img/download.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-
-    }
 
     img {
       width: 70px;
       height: 83px;
       float: right;
     }
+
+ a {
+	text-decoration-color: black;
+
+}
+
+ #exa {
+	text-align: center;
+
+}
